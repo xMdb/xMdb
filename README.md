@@ -12,4 +12,4 @@ I'm xMdb! Frequently known as Matt.
 ![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)
 ![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)
 
-[Website Status](https://img.shields.io/website-up-down-green-red/http/mgrif.xyz?style=for-the-badge&logo=icloud)](https://mgrif.xyz/)
+[![Website Status](https://img.shields.io/website-up-down-green-red/http/mgrif.xyz?style=for-the-badge&logo=icloud)](https://mgrif.xyz/)
