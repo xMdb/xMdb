@@ -6,10 +6,6 @@ I'm xMdb! Frequently known as Matt.
 - Feedback or anything you want to say is appreciated [here](https://github.com/xMdb/xMdb/issues) or any other means!
 - Check my pinned repos for my latest projects!
 
-[![Discord Button](https://img.shields.io/badge/Discord-xMdb%237897-orange?style=for-the-badge&logo=discord)](http://dsc.bio/xmdb)
-
-![ForTheBadge uses-html](http://ForTheBadge.com/images/badges/uses-html.svg)
-![ForTheBadge uses-css](http://ForTheBadge.com/images/badges/uses-css.svg)
-![ForTheBadge uses-js](http://ForTheBadge.com/images/badges/uses-js.svg)
-
 [![Website Status](https://img.shields.io/website-up-down-green-red/http/mgrif.xyz?style=for-the-badge&logo=icloud)](https://mgrif.xyz/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
