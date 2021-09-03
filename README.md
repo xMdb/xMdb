@@ -2,9 +2,10 @@
 
 I'm xMdb! Frequently known as Matt.
 
-- I code stuff in HTML, CSS, and a bit of JS as well
-- Feedback or anything you want to say is appreciated [here](https://github.com/xMdb/xMdb/issues) or any other means!
-- Check my pinned repos for my latest projects!
+- 👨‍💻 I am a web developer learning JavaScript frameworks such as React and Vue
+- 📌 My pinned repos are ordered by which ones I think are the best
+- 👀 Check out [my projects board on Trello](https://trello.com/b/ov5wyT8m/projects) if you are interested in what I'm working on
+- 💬 Feedback or anything you want to say is appreciated [here](https://github.com/xMdb/xMdb/issues) or by any other means!
 
 [![Website Status](https://img.shields.io/website-up-down-green-red/http/mgrif.xyz?style=for-the-badge&logo=icloud)](https://mgrif.xyz/)
 
