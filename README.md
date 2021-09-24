@@ -2,7 +2,7 @@
 
 I'm xMdb! Frequently known as Matt.
 
-- 👨‍💻 I am a web developer learning JavaScript frameworks such as React and Vue
+- 👨‍💻 I am a web developer learning JavaScript frameworks such as React
 - 📌 My pinned repos are ordered by which ones I think are the best
 - 👀 Check out [my projects board on Trello](https://trello.com/b/ov5wyT8m/projects) if you are interested in what I'm working on
 - 💬 Feedback or anything you want to say is appreciated [here](https://github.com/xMdb/xMdb/issues) or by any other means!
