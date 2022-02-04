@@ -33,5 +33,3 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_from: 200
           plugin_lines: yes
-          plugin_sponsors: yes
-          plugin_sponsors_sections: goal, about
