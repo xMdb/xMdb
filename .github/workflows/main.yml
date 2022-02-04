@@ -27,7 +27,7 @@ jobs:
           user: xMdb
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: UTC
+          config_timezone: AEST
           plugin_habits: yes
           plugin_habits_days: 14
           plugin_habits_facts: yes
