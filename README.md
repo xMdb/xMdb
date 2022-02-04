@@ -6,7 +6,7 @@
 - 📌 Check out my pinned repos for some of my best work
 - 💬 Feedback or anything you want to say is appreciated [here](https://github.com/xMdb/xMdb/issues) or by any other means!
 
-![](https://img.shields.io/github/sponsors/xMdb?color=64DFDF&label=SPONSOR%20ME&style=for-the-badge) ![](https://komarev.com/ghpvc/?username=xMdb&color=64DFDF)
+<a href="https://github.com/sponsors/xMdb"><img src="https://img.shields.io/github/sponsors/xMdb?color=64DFDF&label=SPONSOR%20ME&style=for-the-badge"></a> <img src="https://komarev.com/ghpvc/?username=xMdb&color=64DFDF">
 
 | <img align="center" src="/github-metrics.svg" alt="xMdb's GitHub Stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xMdb&custom_title=Top%20Languages&show_icons=true&title_color=64DFDF&icon_color=64DFDF&text_color=fff&bg_color=151515" /></a> |
 | ------------- | ------------- |
