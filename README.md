@@ -8,5 +8,5 @@
 
 ![](https://komarev.com/ghpvc/?username=xMdb&color=brightgreen)
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=xMdb&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515&include_all_commits=true&count_private=true" alt="xMdb's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xMdb&custom_title=Top%20Languages&langs_count=7&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="/github-metrics.svg" alt="xMdb's GitHub Stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xMdb&custom_title=Top%20Languages&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=fff&bg_color=151515" /></a> |
 | ------------- | ------------- |
