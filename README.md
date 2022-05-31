@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://xmdb.dev">Matt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-- 👨‍💻 I am a full-stack developer and I currently work in IT and customer service
+- 👨‍💻 I am a full-stack developer and I currently work in IT
 - 📌 Check out my pinned repos for some of my best work
 - 💬 Feedback or anything you want to say is appreciated [here](https://github.com/xMdb/xMdb/issues) or by any other means!
 
