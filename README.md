@@ -3,6 +3,7 @@
 </div>
 
 - 👨‍💻 I am a full-stack developer and I currently work in IT
+- 🚨 Please hire me! I am actively seeking employment
 - 📌 Check out my pinned repos for some of my best work
 
 <a href="https://github.com/sponsors/xMdb"><img src="https://img.shields.io/github/sponsors/xMdb?color=64DFDF&label=SPONSOR%20ME&style=for-the-badge"></a> <img src="https://komarev.com/ghpvc/?username=xMdb&color=64DFDF">
