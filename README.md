@@ -12,4 +12,4 @@
 | ------------- | ------------- |
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/xMdb/xMdb/assets/46137770/d9d1c93f-25ed-43c0-ae9e-4aa78df42e24');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.2; background: url('https://github.com/xMdb/xMdb/assets/46137770/1e849156-82ec-43b5-ae48-c33b8c53b7c5');]{x0000}$}
