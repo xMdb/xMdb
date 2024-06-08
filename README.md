@@ -10,6 +10,3 @@
 
 | <img align="center" src="/github-metrics.svg" alt="xMdb's GitHub Stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xMdb&custom_title=Top%20Languages&show_icons=true&title_color=64DFDF&icon_color=64DFDF&text_color=fff&bg_color=151515" /></a> |
 | ------------- | ------------- |
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 0; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.35; background: url('https://github.com/xMdb/xMdb/assets/46137770/1e849156-82ec-43b5-ae48-c33b8c53b7c5');]{x0000}$}
