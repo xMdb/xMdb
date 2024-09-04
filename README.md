@@ -2,8 +2,9 @@
    <h1>Hi there, I'm <a href="https://xmdb.dev">Matt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-- 👨‍💻 I am a full-stack developer and I currently work in IT.
-- 📌 Check out my pinned repos for some of my best work
+- 👨‍💻 I am a developer, IT technician, sysadmin, and bug hunter.
+- 🕸️ Aspiring for a career in cyber security.
+- 📌 Check out my pinned repos for some of my best work.
 
 <a href="https://github.com/sponsors/xMdb"><img src="https://img.shields.io/github/sponsors/xMdb?color=64DFDF&label=SPONSOR%20ME&style=for-the-badge"></a> <img src="https://komarev.com/ghpvc/?username=xMdb&color=64DFDF">
 
