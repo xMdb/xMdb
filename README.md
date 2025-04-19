@@ -2,7 +2,7 @@
    <h1>Hi there, I'm <a href="https://xmdb.dev">Matt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-- 👨‍💻 I am a developer, IT technician, sysadmin, and bug hunter.
+- 👨‍💻 I dabble in IT, usually sysadmin or cyber stuff.
 - 🕸️ Aspiring for a career in cyber security.
 - 📌 Check out my pinned repos for some of my best work.
 
