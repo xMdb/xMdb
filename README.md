@@ -2,11 +2,10 @@
    <h1>Hi there, I'm <a href="https://xmdb.dev">Matt</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-- 👨‍💻 I work in IT, usually sysadmin or cyber stuff.
-- 🕸️ Aspiring Cyber Security professional.
-- 📌 Check out my pinned repos for some of my best work.
+- 👨‍💻 I'm a sysadmin!
+- 📌 Check out my pinned repos for some of my old open source shenanigans.
+- ⚠️ I'm no longer super active on GitHub, but still love [exploring great open source software](https://github.com/xMdb?tab=stars).
 
-<a href="https://github.com/sponsors/xMdb"><img src="https://img.shields.io/github/sponsors/xMdb?color=64DFDF&label=SPONSOR%20ME&style=for-the-badge"></a> <img src="https://komarev.com/ghpvc/?username=xMdb&color=64DFDF">
+<img src="https://komarev.com/ghpvc/?username=xMdb&color=64DFDF">
 
-| <img align="center" src="/github-metrics.svg" alt="xMdb's GitHub Stats" /> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xMdb&custom_title=Top%20Languages&show_icons=true&title_color=64DFDF&icon_color=64DFDF&text_color=fff&bg_color=151515" /></a> |
-| ------------- | ------------- |
+<img align="center" src="/github-metrics.svg" alt="xMdb's GitHub Stats" />
