@@ -3,7 +3,7 @@
 </div>
 
 - 👨‍💻 I'm a sysadmin, currently focusing on transitioning into cyber security!
-- 📌 Check out my pinned repos for some of my old open source shenanigans.
+- 📌 Check out my pinned repos for some of my old open source Minecraft and homelab shenanigans.
 - ⚠️ I'm no longer super active on GitHub, but still love [exploring great open source software](https://github.com/xMdb?tab=stars).
 
 <img src="https://komarev.com/ghpvc/?username=xMdb&color=64DFDF">
